@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\edit_details.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\212ac481423623221db8bd433b1f5e5063618200\\output\\res\\menu\\edit_details.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\send_feedback_activity_menu.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\212ac481423623221db8bd433b1f5e5063618200\\output\\res\\menu\\send_feedback_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\view_feedback_items_activity_menu.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\212ac481423623221db8bd433b1f5e5063618200\\output\\res\\menu\\view_feedback_items_activity_menu.xml"
+    }
+]

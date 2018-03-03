@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\pear.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\pear.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_nonselected.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_nonselected.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_selected.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_selected.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_checked_white.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_checked_white.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\add.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo_signup.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo_signup.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_unchecked_white.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_unchecked_white.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_delete.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\unchecked_white.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\unchecked_white.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\checked.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\checked.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo_login_bk.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo_login_bk.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\unchecked.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\unchecked.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\banana.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\banana.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\menu.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\menu.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\delete.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\apple.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\apple.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_add.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\recent.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\recent.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_recent.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_recent.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\selected.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\selected.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_unchecked.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_unchecked.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_checked.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_checked.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\nonselected.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\nonselected.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\ic_menu.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\checked_white.png",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\checked_white.png"
+    }
+]

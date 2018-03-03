@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\53bcc58516c17053f42ce9cd3911d3346390f12a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\53bcc58516c17053f42ce9cd3911d3346390f12a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\53bcc58516c17053f42ce9cd3911d3346390f12a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\53bcc58516c17053f42ce9cd3911d3346390f12a\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

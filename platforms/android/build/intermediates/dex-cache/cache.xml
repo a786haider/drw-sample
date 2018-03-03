@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\eb9f90082a655cebccd3fb34093f83eff69561c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7ab24a3e6470cc509f0742dfde712b89e32f60c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\d15c528e92364551613667fcd85c1f9b96afadd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_ab944e215f343f0f3c02012b1bc60ff21c723686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\53bcc58516c17053f42ce9cd3911d3346390f12a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_98b0c3d7351eb3722402649ca42e1dd8431de66e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\a1c0269a0aa80ab5ee24c6bb59d056410c2815af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9ffa5b2e37c626bd25cfbff4df099cdf068595f9">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_042af0965947b211991d8630ed16e8e6935648ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\3cfd6d7a3ded34fba8f7d90d9fc836aca538e674\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="556dc4e7734c7445d7310a625fad89c5be6728b2">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_703234654a3a1250d5f735c0e60d513a20d0808a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\d6c442676e0861ba2677d53a5a6d0a3ca3356bb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21ece50b870a8bea45608a6748ad60112d5d9ed1">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1923e8d7d04b11f787df868b97ae78671b775a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\8d6a6b15a1520e61d6fa1e898dc9d3ca942c126a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_97af7c54a364e6c139697cdbe24d07191065230e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\074e9cb3bb344478920297d6f3c03fe972fde2d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4df8aad66215f497722e05820383f9ff04796fea">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_f9e9b39770e7895cdcfa29cc177f3291fc62945f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\f57345679cd524d40d626425541ea7e70c8fd67f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_b0e2db4a23e814a7a298dc3982e6ba16742a2966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\3e349097c919a627f40424484effcdd1383721e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1481c2221a93c2189943eed84c224f2a7b4bfc7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\2fb9c6111129872add4c11c46324ede967926621\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_0f864120a36eeedd81df8369a284c3e321f254a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\fbab95de90a00f06ef04c094514a1498d3a9c1eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae411cd0dd58ad905486a0bc7931ec5adf3a2d13">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_8031d84c0ca88c2324bfeb42168434a8dbd61b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\dee9b78b80ad4fd2ec7ad57dd9b1be58da0d28f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="16dfa5cc51cd9a9e2809e48ceb26724a29861fdd">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_f519f9110b3da1f204e95ed16ddbedb3a598243a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\5df318e4953b3251ea16b64ba48c0044d215ab6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4045027bc0bead1ff123682c698041bea3a7b0fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\aa707ecceb1343e20d016265e433919f5954d551\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ce22401852bd9e460265a9a1567f7cedb6fc91b9">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6d0f6d6e4fa7c355cff53fc3a6a9ba9249d21fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\954ce5e819c94f982683eb9080633233186199bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_69d6916c966e033a6637cb73a9dd1cc607ac834b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\2b4f7d9c6186b4fd455b6c8d548d939658712f15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_12adfcc28e575d5ce4200c1c0974fb3ce1d0e926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\b75d4f727849f1902b3065d0a23fca3266e11d7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_9e5045ca2a7dd187d5efa407144835f19b0d10b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\f51ebbb38fc7a935187910aa36d10032bf963d02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_bdbe4a9287418545706f07df6c870328338afaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\dba685d1f93922ef820e1834cb2727d795ba5199\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_a9026108e71558b508dbfe657c97d7054085d0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\2e2fac35b2cde3ff92929310d940a9632f074b45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_76511a94d0987dd547819287b035760e4898b23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\212ac481423623221db8bd433b1f5e5063618200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0eed9e468431f447bf63f3a0cee23418e8994411">
+        <dex dex="D:\kreativeClick\mobile\drw-sample\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2e2501a68a7066900fb68f5c1e70b376871080b2.jar" />
+    </item>
+
+</items>

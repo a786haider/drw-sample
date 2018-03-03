@@ -1,0 +1,4 @@
+#Wed Feb 28 18:28:00 PKT 2018
+base.0=D\:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

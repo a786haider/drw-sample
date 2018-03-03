@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\d6c442676e0861ba2677d53a5a6d0a3ca3356bb1\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\d6c442676e0861ba2677d53a5a6d0a3ca3356bb1\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\d6c442676e0861ba2677d53a5a6d0a3ca3356bb1\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\d6c442676e0861ba2677d53a5a6d0a3ca3356bb1\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    }
+]

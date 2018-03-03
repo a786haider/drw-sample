@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\bg_login.jpg",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\bg_login.jpg"
+    },
+    {
+        "merged": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\bg_inner.jpg",
+        "source": "D:\\kreativeClick\\mobile\\drw-sample\\platforms\\android\\app\\src\\main\\res\\drawable-ldpi\\bg_inner.jpg"
+    }
+]
